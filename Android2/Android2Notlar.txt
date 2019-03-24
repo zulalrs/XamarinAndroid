@@ -1,0 +1,5 @@
+﻿1) Android + Blank App + 4.4 KitKat projesi oluşturduk.
+2) activity_main.axml içerisindeki RelativeLayout tagını LinearLayot olarak değiştirdik ve içerisine iki button ekledik.
+3) MainActivity.cs sınıfında da view e eklediğimiz nesnelerle ilgili işlemleri yazdık. Eventları tetiklettirdik.
+
+*** axml kısmına yazdığımmız tüm nesneler bir viewdır.

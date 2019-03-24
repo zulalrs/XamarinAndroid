@@ -1,0 +1,20 @@
+﻿Xamarin University
+docs.microsoft xamarin
+
+1) Android + Navigation Drawer App + 4.4 KitKat projesi oluşturduk.
+2) conten_main.axml de textview nesnesine id verdik.
+3) O nesnenin özelliklerindeki backend tarfında değiştirmek için MainActivity de gerekli kodları yazdık.
+4) FabOnClick metoduna eklemeler yaptık.
+5) OnNavigationItemSelected metodunda kameraya tıklandığında toast mesajı verecek kodları ekledik.
+
+*** Single View App: Bir sayfa üzerinden çalışıyor ve hazır bir template getiriyor.
+*** Navigation Drawer App: Soldan açılan bir menü ve hazır template getiriyor.
+*** Tabbed App: Üst veya alt tarafta tabların yer aldığı hazır template getiriyor.
+*** Blank App: Boş bir proje getiriyor. Her şeyini biz yazıyoruz.
+
+Notlar:
+*** Android Life Cycle döngüsünü bilmemiz gerekiyor.
+
+*** Relative layout ise bağımlılık vardır.
+
+*** View kısmındaki nesnelere backend tarafından ulaşabilmek için nesnelere id vermeliyiz.
