@@ -1,0 +1,2 @@
+﻿1) Android + Blank App + 4.4 KitKat projesi oluşturduk.
+2) activity_main.axml içerisine linearlayout ve textviewler ekledik.Yerleşimlerinin ve dağılımlarının nasıl olabileceğini gösterdik.
